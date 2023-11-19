@@ -21,3 +21,24 @@ Student Grade System is a simple Java program that allows users to manage studen
 
    ```bash
    git clone https://github.com/your-username/StudentGradeSystem.git
+
+### Compile the Java files:
+
+javac StudentGradeSystem/StudentGradeSystem.java
+javac StudentGradeSystem/Student.java
+
+### Run the program:
+
+java StudentGradeSystem.StudentGradeSystem
+
+## Contributing
+
+If you'd like to contribute to this project, please follow the [Contribution Guidelines](./CONTRIBUTING.md).
+
+## Liscence
+
+This project is licensed under the [MIT License](./LICENSE) - see the LICENSE file for details.
+
+## Contact
+
+For any questions or concerns, feel free to reach out to [Jim Hendrix] at [jimhendrixbageo@gmail.com].
