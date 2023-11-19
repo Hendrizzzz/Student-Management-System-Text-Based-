@@ -1,6 +1,6 @@
 # Student Grade System
 
-Student Grade System is a simple Java program that allows users to manage student information, grades, and perform basic operations.
+Student Grade System is a simple Java program (Console-based) that allows users to manage student information, grades, and perform basic operations.
 
 ## Features
 
